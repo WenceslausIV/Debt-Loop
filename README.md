@@ -4,12 +4,12 @@
 
 ![LoomMessage-6May2023online-video-cutter com1-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/e650d9d5-0895-4c3c-bb92-f100a8841c90)
 
-## Download
-
-Download the game [here](https://www.dropbox.com/s/9j9jlqgvm8gmd68/Debt%20Loop.zip?dl=0).
-
 ## Controls
 
 - **WASD** — Move  
 - **T** — Teleport to dungeon  
 - **I** — Open inventory  
+
+## Download
+
+Download the game [here](https://www.dropbox.com/s/9j9jlqgvm8gmd68/Debt%20Loop.zip?dl=0).
