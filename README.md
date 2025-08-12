@@ -6,7 +6,7 @@
 
 # How to play the game
 
-Gamble N times to clearn the room.
+Gamble N times to clear the room.
 
 ## Controls
 
