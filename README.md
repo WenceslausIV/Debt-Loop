@@ -6,7 +6,7 @@
 
 # How to play the game
 
-Gamble N times to clear the room.
+Gamble N times to clear the room maintaining your HP and a positive balance.
 
 ## Controls
 
