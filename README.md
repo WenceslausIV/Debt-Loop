@@ -10,9 +10,9 @@ Gamble N times to clear the room maintaining your HP and a positive balance.
 
 ## Controls
 
-- **WASD** — Move  
-- **T** — Teleport to dungeon  
-- **I** — Open inventory  
+- **WASD** - Move  
+- **T** - Teleport to dungeon  
+- **I** - Open inventory  
 
 ## Download
 
