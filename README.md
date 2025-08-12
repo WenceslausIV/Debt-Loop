@@ -4,7 +4,7 @@
 
 ![LoomMessage-6May2023online-video-cutter com1-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/e650d9d5-0895-4c3c-bb92-f100a8841c90)
 
-## How to play the game
+# How to play the game
 
 Gamble N times to clearn the room.
 
